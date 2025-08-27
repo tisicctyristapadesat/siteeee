@@ -1,0 +1,20 @@
+{
+  "name": "flk-store",
+  "version": "1.0.0",
+  "description": "FLK Store - Gaming Software and Digital Products",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve -s .",
+    "build": "echo 'Build complete'",
+    "start": "serve -s ."
+  },
+  "keywords": ["gaming", "software", "digital-products", "flk"],
+  "author": "FLK Store",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
